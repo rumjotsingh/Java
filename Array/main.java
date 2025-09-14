@@ -68,6 +68,6 @@ class main {
         }catch(Expection e){
             System.out.println("Array index out of bounds");
         }
-        System.ou.println("End of program");
+        System.out.println("End of program");
     }
 }
